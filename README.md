@@ -1,11 +1,11 @@
 # MÔN HỌC: PHÁT TRIỂN ỨNG DỤNG VỚI MÃ NGUỒN MỞ
 # HỌ VÀ TÊN: NGUYỄN MẠNH HIẾU - MSSV: K225480106020 - LỚP: K58KTP
 _____
-## WEBSITR QUẢN LÝ TIỆM CẦM ĐỒ
+## WEBSITE QUẢN LÝ TIỆM CẦM ĐỒ
 
 ### Giới thiệu
 
-Hệ thống Quản lý Tiệm Cầm đồ được phát triển dựa trên framework Django (Python) và vận hành hoàn toàn trong môi trường container hóa (Docker). Cấu trúc hạ tầng bao gồm 3 dịch vụ chính:
+Hệ thống Quản Lý Tiệm Cầm đồ được phát triển dựa trên framework Django (Python) và vận hành hoàn toàn trong môi trường container hóa (Docker). Cấu trúc hạ tầng bao gồm 3 dịch vụ chính:
 
 | Tên Dịch vụ | Vai trò trong hệ thống | Cổng (Port) |
 | :--- | :--- | :--- |
